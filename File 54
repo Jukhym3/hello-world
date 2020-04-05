@@ -5,7 +5,7 @@
 float a, b, c;
 char d;
 int p;
-int main
+int main()
 {
 
     while (p != 2)
