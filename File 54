@@ -4,7 +4,7 @@
 #include <conio.h>
 float a, b, c;
 char d;
-int p;
+int p
 int main()
 {
 
